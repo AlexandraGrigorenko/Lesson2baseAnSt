@@ -15,4 +15,6 @@
     <string name="summ">+</string>
     <string name="equal">=</string>
     <string name="sub">-</string>
+    <string name="comma">,</string>
+    <string name="clear">C</string>
 </resources>

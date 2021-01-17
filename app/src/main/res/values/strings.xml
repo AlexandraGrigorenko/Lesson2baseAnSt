@@ -17,4 +17,5 @@
     <string name="sub">-</string>
     <string name="comma">,</string>
     <string name="clear">C</string>
+<string name="ok">Ввод…</string>
 </resources>
